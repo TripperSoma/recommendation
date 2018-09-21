@@ -1,5 +1,5 @@
-plz install this packages necessary
-made by juhwan
+#plz install this packages necessary
+#made by juhwan
 #install.packages("readr")
 #install.packages("tidyverse")
 #install.packages("stringr")
