@@ -2,6 +2,8 @@
 ## RankPage Algorithm with Recommendation System
 #########################################
 
+#refers to this source code.(동근이와 아형이)
+
 data <-read.csv("sample.csv",head=FALSE, sep=",")
 View(data)
 
