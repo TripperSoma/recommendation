@@ -1,5 +1,5 @@
 #########################################
-## 온라인 유통회사의 추천 시스템 사례
+## RankPage Algorithm with Recommendation System
 #########################################
 
 data <-read.csv("sample.csv",head=FALSE, sep=",")
